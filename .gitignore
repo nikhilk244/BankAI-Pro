@@ -1,0 +1,23 @@
+# Maven
+target/
+
+# Compiled Java classes
+*.class
+
+# Log files
+*.log
+
+# Eclipse / Spring Tool Suite
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA
+.idea/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
